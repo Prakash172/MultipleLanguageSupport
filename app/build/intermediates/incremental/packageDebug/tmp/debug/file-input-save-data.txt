@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Apr 21 12:30:06 IST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\pr20020897\\Downloads\\android-advanced-starter-apps-master\\LocaleText_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
